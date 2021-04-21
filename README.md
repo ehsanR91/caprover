@@ -21,6 +21,25 @@ No Docker, nginx knowledge required!
 </a>
 </div>
 
+## Potential New Features for Future: 
+1) Add Server Monitoring.
+2) Ability to add new domains/users.
+3) More control over the server for multiple users.
+4) eMail handling for service monitors.
+5) Logs/Caches purge and view.
+6) More open-source applications as a one click installer.
+7) Complete online DBMS. (Database Management System)
+8) Backup System including (S3 & Google Drive).
+9) FTP/Users management.
+10) More control for user over files.
+11) Online file-manager.
+12) GitHub connect and auto sync.
+13) Online CLI for more thorough control.
+14) 2FA For security.
+
+These are the potential features for the future releases that i (ehsanR91) will be working on. Contributions are more than just welcome.
+
+
 ## What's this?
 
 CapRover is an extremely easy to use app/database deployment & web server manager for your **NodeJS, Python, PHP, ASP.NET, Ruby, MySQL, MongoDB, Postgres, WordPress (and etc...)** applications!
